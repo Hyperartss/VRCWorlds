@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1310708305, guid: 181bee6aad19269489b50cccfb61c89e, type: 3}
+  m_Name: Setting
+  m_EditorClassIdentifier: 
+  WWuXKjKFwS: 2022.12.23.23.53
+  qiSXs60Hxg: 0
+  DWXXQiOs5x: 0
+  QOKXmQHSjU: 0
+  obOXwberak: 0
+  SrHXBmaQGS: {fileID: 0}
+  CCTXAEpC1U: {fileID: 2800000, guid: 33814cb50cf348448a875f894d252151, type: 3}
+  K5HXSRGGgd: {fileID: 0}
+  CFbXrjfCmj: {fileID: 2800000, guid: fc9b6dffa47de5b4481c2b25cd1b4057, type: 3}
+  BHLXym4lC9: {r: 1, g: 1, b: 1, a: 1}
+  KJFXpIbIk0: {r: 0, g: 0, b: 0, a: 1}
+  VGyXzUXM3s: {r: 0.75, g: 0.75, b: 0.75, a: 1}
+  fTSTneJHnI: {r: 0, g: 0, b: 0, a: 1}
+  DLpTojB8Yr: {r: 1, g: 1, b: 1, a: 1}
+  FZbT3mHnVb: {r: 1, g: 1, b: 1, a: 1}
+  ncGTCA711l: {r: 1, g: 1, b: 1, a: 1}
+  z6LTqY7NjB: {r: 1, g: 0, b: 0, a: 1}
+  UQnTX9KyoO: {r: 0.094, g: 0.094, b: 0.094, a: 1}
+  C6WTTlob2s: {r: 0.156, g: 0.156, b: 0.156, a: 1}
+  fXdTlUQ8dr: {r: 0.22, g: 0.22, b: 0.22, a: 1}
+  faTTNgdlch: {r: 0.85, g: 0.85, b: 0.85, a: 1}
+  topTtIHJs0: {r: 0.7, g: 0.7, b: 0.7, a: 1}
+  emATPGSA9u: {r: 0.667, g: 0.667, b: 0.667, a: 1}
+  FQITLlITBx: {fileID: 0}
+  nWlTGfQwrV: {fileID: 0}
